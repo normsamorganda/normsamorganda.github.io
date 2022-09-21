@@ -1,0 +1,45 @@
+body {
+    box-sizing: border-box;
+}
+nav {
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.prime-color {
+   background-color: #FA7070;
+}
+.prime-text {
+    color:#FA7070;
+}
+ul li a:hover{
+    background-color: darkgray;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.poppin-bold {
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+footer {
+  width: 100%;
+  background-color:#FA7070; 
+}
+.footer-link {
+  list-style-type: none;
+  font-family: 'Poppins', sans-serif; 
+  color:white;
+  font-size: 15px;
+}
+.footer-link:hover {
+color: black ;
+}
+
+.main-body {
+    background-image: url("Palawan.jpg");
+    background-size: cover;
+   
+
+}
